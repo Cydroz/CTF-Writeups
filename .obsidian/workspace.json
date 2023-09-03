@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md",
+                "file": "DUCTF/2023/osint/Faraday.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md",
+                "file": "DUCTF/2023/osint/Faraday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md",
+                "file": "DUCTF/2023/osint/Faraday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md"
+                "file": "DUCTF/2023/osint/Faraday.md"
               }
             }
           }
@@ -272,6 +272,7 @@
   },
   "active": "ce33168c28883411",
   "lastOpenFiles": [
+    "DUCTF/2023/web/actually-proxed.md",
     "DUCTF/2023/osint/Faraday.md",
     "DUCTF/2023/osint/ExcellentVista.md",
     "DUCTF/2023/osint/ComeACroppa.md",
@@ -283,7 +284,6 @@
     "DUCTF/2023/beginner/Bridgekeeper.md",
     "DUCTF/2023/beginner/downunderflow.md",
     "DUCTF/2023/beginner/blinkybill.md",
-    "DUCTF/2023/web/actually-proxed.md",
     "DUCTF/2023/web/actually-proxed",
     "DUCTF/2023/web",
     "Untitled",

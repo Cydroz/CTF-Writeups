@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md",
+                "file": "DUCTF/2023/beginner/flagart.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md",
+                "file": "DUCTF/2023/beginner/flagart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md",
+                "file": "DUCTF/2023/beginner/flagart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUCTF/2023/web/actually-proxed.md"
+                "file": "DUCTF/2023/beginner/flagart.md"
               }
             }
           }
@@ -260,6 +260,7 @@
   },
   "active": "b9a8388806cb4031",
   "lastOpenFiles": [
+    "DUCTF/2023/web/actually-proxed.md",
     "DUCTF/2023/osint/Faraday.md",
     "DUCTF/2023/osint/ExcellentVista.md",
     "DUCTF/2023/osint/ComeACroppa.md",
@@ -281,7 +282,6 @@
     "DUCTF/2023/beginner/attachments/Pasted image 20230903143231.png",
     "DUCTF/2023/beginner/attachments/Pasted image 20230903143326.png",
     "DUCTF/2023/beginner/attachments/Untitled",
-    "DUCTF/2023/web/actually-proxed.md",
     "DUCTF/2023/web/actually-proxed",
     "DUCTF/2023/web",
     "Untitled",

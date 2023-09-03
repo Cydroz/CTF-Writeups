@@ -23,7 +23,8 @@ We can note that:
 - The `palette` symbols are only printed out whenever our template file `mask.txt` eventually pops with an "X" character. 4 X's are needed until we progress to the next character in our concatenated message.
 
 Based on this, we can generate our own cipher key / lookup table. 
-- First I create a message file that contains more or less all the ASCII symbols that would interest us in a flag, 
+- First I create a message file that contains more or less all the ASCII symbols that would interest us in a flag
+	- `abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-=[]\;',./~!@#$%^&*()_+{}|:"<>?` (plus backtick)
 - Then I define an "infinitemask", which is really just a super long string of X's. I didn't want to mess with the source code too much so that's why I opted for this method.
 - Then I adapt the python script slightly to define our cipher key and reverse cipher keys.
 

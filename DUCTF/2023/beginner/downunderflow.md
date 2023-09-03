@@ -1,4 +1,4 @@
-For this we want to login as `logins[8]` (admin) to get the flag, but there is a `    unsigned short idx = read_int_lower_than(NUM_USERS - 1);` statement that prevents us from accessing it directly in this way.
+For this we want to login as `logins[7]` (admin) to get the flag, but there is a `    unsigned short idx = read_int_lower_than(NUM_USERS - 1);` statement that prevents us from accessing it directly in this way.
 
 Let's look at this function first:
 ```C

@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "showLineNumber": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true
 }

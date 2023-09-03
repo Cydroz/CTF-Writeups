@@ -34,7 +34,9 @@ However, in the "secret server", by itself, that old exploit could still work if
 ```
 
 Now I'm not entirely sure how this works, but I was able to get the flag by `curl` request and passing the same `X-Forwarded-for` header **twice**, like so:
+
 `curl -H "X-forwarded-for: aksldksaj" -H "X-forwarded-for: 31.33.33.7" http://actually.proxed.duc.tf:30009`
+
 And this gave back the flag
 
 I believe this works because the "pruning" code mentioned above only prunes the first instance of this header, due to the subsequent `break` statement.

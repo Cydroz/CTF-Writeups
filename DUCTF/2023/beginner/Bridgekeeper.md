@@ -47,6 +47,7 @@ Furthermore, inspecting the document markup source gives us this script in the <
   
 ```
 From this we can see that the only prompt that matters to us is the favourite colour prompt.
+
 Let's take a look at some important lines from the javascript source file:
 - `if (!/^[a-z]{13}$/.exec(answer)) return "";` = this is a regex selecting only lowercase letters, and exactly 13 of them. So the answer we need must be all lowercase, 13 characters long
 - From the numerous arrays, we can see that they're all 26 entries long, and the very last one has the element/var "n" (which holds the value "blue", which is what we want to obtain)
@@ -60,14 +61,19 @@ Let's take a look at some important lines from the javascript source file:
 In other words, we just need to find out which entries in each of the lettered arrays refers to the next array letter of the alphabet, and get its zero-based index.
 
 The way I did this was utilising VSCode's symbol highlighting and working backwards. Before messing around with this i created a copy of this source code to work with.
+
 By clicking the `m` symbol in `m.push()`, VSCode highlighted the same `m` symbol in the line above it (`l.push`). Whenever it did this I would replace the highlighted symbol with a string like "x" to mark its position, and I would proceed to mark everything backwards until I have a full trace to the `n` symbol in the `m[]` array. I would also mark the `n` symbol similarly in the `m[]` array.
 
 I then pasted these modified variable definitions in the chrome devtools consoles, and from there I would utilise the `.IndexOf()` method on each of these variables, and I would get a number for each of my modified arrays.
+
 ![](attachments/Pasted%20image%2020230903143231.png)
+
 I'd then offset this back by the value of 97, and then use this as a character code to get the actual character needed for my prompt
+
 ![](attachments/Pasted%20image%2020230903143326.png)
 
 Here I forgot to properly mark the `m` array, but from the resulting phrase I deduced that the desired prompt is `rebeccapurple`.
+
 Funnily enough the prompt answer is the flag itself.
 
 Flag: `DUCTF{rebeccapurple}`

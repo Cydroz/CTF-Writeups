@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

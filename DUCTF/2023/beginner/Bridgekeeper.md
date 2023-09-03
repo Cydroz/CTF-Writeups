@@ -63,9 +63,10 @@ The way I did this was utilising VSCode's symbol highlighting and working backwa
 By clicking the `m` symbol in `m.push()`, VSCode highlighted the same `m` symbol in the line above it (`l.push`). Whenever it did this I would replace the highlighted symbol with a string like "x" to mark its position, and I would proceed to mark everything backwards until I have a full trace to the `n` symbol in the `m[]` array. I would also mark the `n` symbol similarly in the `m[]` array.
 
 I then pasted these modified variable definitions in the chrome devtools consoles, and from there I would utilise the `.IndexOf()` method on each of these variables, and I would get a number for each of my modified arrays.
-![[Pasted image 20230903143231.png]]
+![](attachments/Pasted%20image%2020230903143231.png)
 I'd then offset this back by the value of 97, and then use this as a character code to get the actual character needed for my prompt
-![[Pasted image 20230903143326.png]]
+![](attachments/Pasted%20image%2020230903143326.png)
+
 Here I forgot to properly mark the `m` array, but from the resulting phrase I deduced that the desired prompt is `rebeccapurple`.
 Funnily enough the prompt answer is the flag itself.
 

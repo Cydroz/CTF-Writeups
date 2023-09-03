@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "29a2bcec9a483919",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c3862fad2997db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6847aec476969a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/beginner/blinkybill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15e5d46e4f5f09e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/beginner/𝕏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a36dc3e71946a334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/beginner/downunderflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0b5d822ddbe68d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/beginner/Bridgekeeper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "002c790029081829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/beginner/flagart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da4152f4ec8e2a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/beginner/needle in iam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3577fd7757f003b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/osint/ComeACroppa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a886f2c330279a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/osint/ExcellentVista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a8388806cb4031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/osint/Bridget's back.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce33168c28883411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DUCTF/2023/web/actually-proxed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "815c8277d4da58e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e1999f8a0b7695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188260a1e1a5ed5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c8639bda54457a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "461f3154fa8a95fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "071c52d4fdbf45f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "098b544e348da0a4",
+        "type": "tabs",
+        "dimension": 34.786821705426355,
+        "children": [
+          {
+            "id": "452908dc2e445335",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DUCTF/2023/web/actually-proxed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfdd71020a962597",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DUCTF/2023/web/actually-proxed.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a15a5e7b519196b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d21147d8a61eb720",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DUCTF/2023/web/actually-proxed.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "76a8833e50b67ba9",
+        "type": "tabs",
+        "dimension": 65.21317829457365,
+        "children": [
+          {
+            "id": "99dc1db951a99401",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 527.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce33168c28883411",
+  "lastOpenFiles": [
+    "DUCTF/2023/osint/Faraday.md",
+    "DUCTF/2023/osint/ExcellentVista.md",
+    "DUCTF/2023/osint/ComeACroppa.md",
+    "DUCTF/2023/osint/Bridget's back.md",
+    "DUCTF/2023/beginner/𝕏.md",
+    "DUCTF/2023/beginner/proxed.md",
+    "DUCTF/2023/beginner/needle in iam.md",
+    "DUCTF/2023/beginner/flagart.md",
+    "DUCTF/2023/beginner/Bridgekeeper.md",
+    "DUCTF/2023/beginner/downunderflow.md",
+    "DUCTF/2023/beginner/blinkybill.md",
+    "DUCTF/2023/web/actually-proxed.md",
+    "DUCTF/2023/web/actually-proxed",
+    "DUCTF/2023/web",
+    "Untitled",
+    "DUCTF/2023/osint/attachments/Pasted image 20230903150215.png",
+    "DUCTF/2023/osint/attachments/Pasted image 20230903145610.png",
+    "DUCTF/2023/osint/attachments/Pasted image 20230903145313.png",
+    "DUCTF/2023/osint/attachments",
+    "DUCTF/2023/osint",
+    "DUCTF/2023/beginner/attachments/Pasted image 20230903143326.png",
+    "DUCTF/2023/beginner/attachments/Pasted image 20230903143231.png",
+    "DUCTF/2023/beginner/attachments/2023-09-03--ApplicationFrameHost_mVC6sUyUCe.png",
+    "DUCTF/2023/beginner/attachments/Pasted image 20230903135100.png",
+    "DUCTF/2023/beginner/attachments"
+  ]
+}
